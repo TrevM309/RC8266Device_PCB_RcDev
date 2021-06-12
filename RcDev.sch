@@ -52,7 +52,7 @@ U 1 1 60B5F4D6
 P 7800 1750
 F 0 "J3" H 7772 1724 50  0000 R CNN
 F 1 "Program" H 7772 1633 50  0000 R CNN
-F 2 "TrevM:PinHeader_1x06_P2.54mm_Vertical_bentR" H 7800 1750 50  0001 C CNN
+F 2 "TrevM:PinHeader_1x06_P2.54mm_Vertical_bent" H 7800 1750 50  0001 C CNN
 F 3 "~" H 7800 1750 50  0001 C CNN
 	1    7800 1750
 	-1   0    0    -1  
